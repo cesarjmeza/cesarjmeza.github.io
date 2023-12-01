@@ -1,1 +1,3 @@
-static files for academic website 
+# Academic Website
+
+static files for academic website
