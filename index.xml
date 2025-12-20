@@ -1,103 +1,144 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Cesar J Meza</title>
-    <link>https://cesarjmeza.github.io/</link>
-    <description>Recent content on Cesar J Meza</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate>
-    <atom:link href="https://cesarjmeza.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How to build an Application with modern Technology</title>
-      <link>https://cesarjmeza.github.io/blog/post-1/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://cesarjmeza.github.io/blog/post-1/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
-    </item>
-    <item>
-      <title>How to build an Application with modern Technology</title>
-      <link>https://cesarjmeza.github.io/blog/post-2/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://cesarjmeza.github.io/blog/post-2/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
-    </item>
-    <item>
-      <title>How to build an Application with modern Technology</title>
-      <link>https://cesarjmeza.github.io/blog/post-3/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://cesarjmeza.github.io/blog/post-3/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
-    </item>
-    <item>
-      <title>How to build an Application with modern Technology</title>
-      <link>https://cesarjmeza.github.io/blog/post-4/</link>
-      <pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate>
-      <guid>https://cesarjmeza.github.io/blog/post-4/</guid>
-      <description>Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat.</description>
-    </item>
-    <item>
-      <title>Cesar Meza</title>
-      <link>https://cesarjmeza.github.io/authors/cesar-meza/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cesarjmeza.github.io/authors/cesar-meza/</guid>
-      <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    <item>
-      <title>Elements</title>
-      <link>https://cesarjmeza.github.io/elements/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cesarjmeza.github.io/elements/</guid>
-      <description>Table of Contents Heading 2 Heading 3 Heading 4 Heading 5 Emphasis Button Link Paragraph Ordered List Unordered List Notice Tab Accordions Code and Syntax Highlighting Blockquote Tables Image Gallery Slider Youtube video Custom video Here is an example of headings.</description>
-    </item>
-    <item>
-      <title>Media</title>
-      <link>https://cesarjmeza.github.io/media/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cesarjmeza.github.io/media/</guid>
-      <description>Video Interviews Pomona College give high schoolers chance to take classes live on campus as part of youth program PAYS program prepares underserved students for college Programa gratuito ayuda a los estudiantes de preparatoria a llegar a la universidad Articles Once-Skeptical Student Becomes Teacher in Pomona College Academy for Youth Success </description>
-    </item>
-    <item>
-      <title>Privacy</title>
-      <link>https://cesarjmeza.github.io/privacy-policy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cesarjmeza.github.io/privacy-policy/</guid>
-      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
-    </item>
-    <item>
-      <title>Ready to build your next project with Hugo?</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Sam Wilson</title>
-      <link>https://cesarjmeza.github.io/authors/sam-wilson/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cesarjmeza.github.io/authors/sam-wilson/</guid>
-      <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-    <item>
-      <title>Teaching</title>
-      <link>https://cesarjmeza.github.io/teaching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cesarjmeza.github.io/teaching/</guid>
-      <description>Fall 2023 Calculus III, Assistant in Instruction Introduction to Graph Theory, Directed Reading Group Instructor Calculus I, Guest Lecture (Monday, December 4 and Wednesday, December 6) Spring 2023 Linear Algebra, Grader Introduction to Differential Geometry, Grader Fall 2022 Calculus I, Assistant in Instruction </description>
-    </item>
-    <item>
-      <title>What Users Are Saying About Hugoplate</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid></guid>
-      <description></description>
-    </item>
-    <item>
-      <title>William Jacob</title>
-      <link>https://cesarjmeza.github.io/authors/william-jacob/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cesarjmeza.github.io/authors/william-jacob/</guid>
-      <description>lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Cesar J. Meza</title><link>https://cesarjmeza.github.io/</link><description>Recent content on Cesar J. Meza</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 04 Apr 2022 05:00:00 +0000</lastBuildDate><atom:link href="https://cesarjmeza.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>How to build an Application with modern Technology</title><link>https://cesarjmeza.github.io/blog/post-1/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>https://cesarjmeza.github.io/blog/post-1/</guid><description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description></item><item><title>How to build an Application with modern Technology</title><link>https://cesarjmeza.github.io/blog/post-2/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>https://cesarjmeza.github.io/blog/post-2/</guid><description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description></item><item><title>How to build an Application with modern Technology</title><link>https://cesarjmeza.github.io/blog/post-3/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>https://cesarjmeza.github.io/blog/post-3/</guid><description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description></item><item><title>How to build an Application with modern Technology</title><link>https://cesarjmeza.github.io/blog/post-4/</link><pubDate>Mon, 04 Apr 2022 05:00:00 +0000</pubDate><guid>https://cesarjmeza.github.io/blog/post-4/</guid><description>&lt;p&gt;Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.&lt;/p&gt;</description></item><item><title>Elements</title><link>https://cesarjmeza.github.io/elements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cesarjmeza.github.io/elements/</guid><description>&lt;details class="table-of-content "&gt;
+ &lt;summary&gt;
+ 
+ Table of Contents
+ 
+ &lt;/summary&gt;
+ &lt;nav id="TableOfContents"&gt;
+ &lt;ol&gt;
+ &lt;li&gt;&lt;a href="#heading-2"&gt;Heading 2&lt;/a&gt;
+ &lt;ol&gt;
+ &lt;li&gt;&lt;a href="#heading-3"&gt;Heading 3&lt;/a&gt;
+ &lt;ol&gt;
+ &lt;li&gt;&lt;a href="#heading-4"&gt;Heading 4&lt;/a&gt;
+ &lt;ol&gt;
+ &lt;li&gt;&lt;a href="#heading-5"&gt;Heading 5&lt;/a&gt;&lt;/li&gt;
+ &lt;/ol&gt;
+ &lt;/li&gt;
+ &lt;/ol&gt;
+ &lt;/li&gt;
+ &lt;li&gt;&lt;a href="#emphasis"&gt;Emphasis&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#button"&gt;Button&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#link"&gt;Link&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#paragraph"&gt;Paragraph&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#ordered-list"&gt;Ordered List&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#unordered-list"&gt;Unordered List&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#notice"&gt;Notice&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#tab"&gt;Tab&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#accordions"&gt;Accordions&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#code-and-syntax-highlighting"&gt;Code and Syntax Highlighting&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#blockquote"&gt;Blockquote&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#tables"&gt;Tables&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#image"&gt;Image&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#gallery"&gt;Gallery&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#slider"&gt;Slider&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#youtube-video"&gt;Youtube video&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href="#custom-video"&gt;Custom video&lt;/a&gt;&lt;/li&gt;
+ &lt;/ol&gt;
+ &lt;/li&gt;
+ &lt;/ol&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;p&gt;Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code&gt;#&lt;/code&gt; for heading 1 and use &lt;code&gt;######&lt;/code&gt; for heading 6.&lt;/p&gt;</description></item><item><title>John Doe</title><link>https://cesarjmeza.github.io/authors/john-doe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cesarjmeza.github.io/authors/john-doe/</guid><description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description></item><item><title>Media</title><link>https://cesarjmeza.github.io/media/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cesarjmeza.github.io/media/</guid><description>&lt;h2 id="video-interviews"&gt;Video Interviews&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.cbsnews.com/losangeles/video/pomona-college-give-high-schoolers-chance-to-take-classes-live-on-campus-as-part-of-youth-program/"
+
+
+
+
+ target="_blank"
+ 
+
+
+&gt;Pomona College give high schoolers chance to take classes live on campus as part of youth program&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://spectrumnews1.com/ca/la-east/inside-the-issues/2023/07/21/pays-program-prepares-underserved-students-for-college"
+
+
+
+
+ target="_blank"
+ 
+
+
+&gt;PAYS program prepares underserved students for college&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.telemundo52.com/%20fotosyvideos-2/programa-gratuito-ayuda-a-los-estudiantes-de-preparatoria-a-llegar-a-la-universidad/2451315/?amp=1"
+
+
+
+
+ target="_blank"
+ 
+
+
+&gt;Programa gratuito ayuda a los estudiantes de preparatoria a llegar a la universidad&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="articles"&gt;Articles&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.pomona.edu/news/2023/06/08-once-skeptical-student-becomes-teacher-pomona-college-academy-youth-success"
+
+
+
+
+ target="_blank"
+ 
+
+
+&gt;Once-Skeptical Student Becomes Teacher in Pomona College Academy for Youth Success&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Privacy</title><link>https://cesarjmeza.github.io/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cesarjmeza.github.io/privacy-policy/</guid><description>&lt;h4 id="responsibility-of-contributors"&gt;Responsibility of Contributors&lt;/h4&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed&lt;/p&gt;</description></item><item><title>Ready to build your next project with Hugo?</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Research</title><link>https://cesarjmeza.github.io/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cesarjmeza.github.io/research/</guid><description>&lt;h2 id="preprints"&gt;Preprints&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Laura Escobar and Cesar J. Meza. &lt;em&gt;Complexity of the zero set of a matrix Schubert ideal&lt;/em&gt;. Sept. 2025. DOI: &lt;a href="10.48550/arXiv.2510.00131"
+
+
+
+ 
+
+
+&gt;10.48550/arXiv.2510.00131&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;</description></item><item><title>Sam Wilson</title><link>https://cesarjmeza.github.io/authors/sam-wilson/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cesarjmeza.github.io/authors/sam-wilson/</guid><description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description></item><item><title>Teaching</title><link>https://cesarjmeza.github.io/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cesarjmeza.github.io/teaching/</guid><description>&lt;h2 id="washington-university-in-st-louis"&gt;Washington University in St. Louis&lt;/h2&gt;
+&lt;h3 id="spring-2025"&gt;Spring 2025&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Calculus II, &lt;em&gt;Assistant in Instruction&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="fall-2024"&gt;Fall 2024&lt;/h3&gt;
+&lt;h3 id="spring-2024"&gt;Spring 2024&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Calculus II, Assistant in Instruction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="fall-2023"&gt;Fall 2023&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Calculus III, &lt;em&gt;Assistant in Instruction&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Introduction to Graph Theory, &lt;em&gt;Directed Reading Group Instructor&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Calculus I, &lt;em&gt;Guest Lecture&lt;/em&gt; (Monday, December 4 and Wednesday, December 6)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="spring-2023"&gt;Spring 2023&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Linear Algebra, &lt;em&gt;Grader&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Introduction to Differential Geometry, &lt;em&gt;Grader&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="fall-2022"&gt;Fall 2022&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Calculus I, &lt;em&gt;Assistant in Instruction&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="san-francisco-state-university"&gt;San Francisco State University&lt;/h2&gt;
+&lt;h3 id="spring-2021"&gt;Spring 2021&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Precalculus, &lt;em&gt;Instructor of Record&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Mathematics for Statistical Quantitative Reasoning, &lt;em&gt;Instructor of Record&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="fall-2020"&gt;Fall 2020&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Precalculus, &lt;em&gt;Instructor of Record&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Calculus I, &lt;em&gt;Graduate Teaching Assistant&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="spring-2020"&gt;Spring 2020&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Business Calculus, &lt;em&gt;Instructor of Record&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Calculus I, &lt;em&gt;Graduate Teaching Assistant&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="fall-2019"&gt;Fall 2019&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Business Calculus, &lt;em&gt;Instructor of Record&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Calculus I, &lt;em&gt;Graduate Teaching Assistant&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>What Users Are Saying About Hugoplate</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>William Jacob</title><link>https://cesarjmeza.github.io/authors/william-jacob/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cesarjmeza.github.io/authors/william-jacob/</guid><description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description></item></channel></rss>
