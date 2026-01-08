@@ -88,57 +88,36 @@
 &lt;/ul&gt;</description></item><item><title>Privacy</title><link>https://cesarjmeza.github.io/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cesarjmeza.github.io/privacy-policy/</guid><description>&lt;h4 id="responsibility-of-contributors"&gt;Responsibility of Contributors&lt;/h4&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed&lt;/p&gt;</description></item><item><title>Research</title><link>https://cesarjmeza.github.io/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cesarjmeza.github.io/research/</guid><description>&lt;h2 id="preprints"&gt;Preprints&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;Laura Escobar and Cesar J. Meza. &lt;em&gt;Complexity of the zero set of a matrix Schubert ideal&lt;/em&gt;. Sept. 2025. DOI: &lt;a href="10.48550/arXiv.2510.00131"
+&lt;li&gt;Laura Escobar and Cesar J. Meza. &lt;em&gt;Complexity of the zero set of a matrix Schubert ideal&lt;/em&gt;. Sept. 2025. &lt;a href="https://doi.org/10.48550/arXiv.2510.00131"
 
 
 
+
+ target="_blank"
  
 
 
-&gt;10.48550/arXiv.2510.00131&lt;/a&gt;.&lt;/li&gt;
-&lt;/ol&gt;</description></item><item><title>Teaching</title><link>https://cesarjmeza.github.io/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cesarjmeza.github.io/teaching/</guid><description>&lt;h2 id="washington-university-in-st-louis"&gt;Washington University in St. Louis&lt;/h2&gt;
-&lt;h3 id="spring-2025"&gt;Spring 2025&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Calculus II, &lt;em&gt;Assistant in Instruction&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="fall-2024"&gt;Fall 2024&lt;/h3&gt;
-&lt;h3 id="spring-2024"&gt;Spring 2024&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Calculus II, Assistant in Instruction&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="fall-2023"&gt;Fall 2023&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Calculus III, &lt;em&gt;Assistant in Instruction&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Introduction to Graph Theory, &lt;em&gt;Directed Reading Group Instructor&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Calculus I, &lt;em&gt;Guest Lecture&lt;/em&gt; (Monday, December 4 and Wednesday, December 6)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="spring-2023"&gt;Spring 2023&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Linear Algebra, &lt;em&gt;Grader&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Introduction to Differential Geometry, &lt;em&gt;Grader&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="fall-2022"&gt;Fall 2022&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Calculus I, &lt;em&gt;Assistant in Instruction&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id="san-francisco-state-university"&gt;San Francisco State University&lt;/h2&gt;
-&lt;h3 id="spring-2021"&gt;Spring 2021&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Precalculus, &lt;em&gt;Instructor of Record&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Mathematics for Statistical Quantitative Reasoning, &lt;em&gt;Instructor of Record&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="fall-2020"&gt;Fall 2020&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Precalculus, &lt;em&gt;Instructor of Record&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Calculus I, &lt;em&gt;Graduate Teaching Assistant&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="spring-2020"&gt;Spring 2020&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Business Calculus, &lt;em&gt;Instructor of Record&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Calculus I, &lt;em&gt;Graduate Teaching Assistant&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="fall-2019"&gt;Fall 2019&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Business Calculus, &lt;em&gt;Instructor of Record&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Calculus I, &lt;em&gt;Graduate Teaching Assistant&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;</description></item></channel></rss>
+&gt;DOI: 10.48550/arXiv.2510.00131&lt;/a&gt;.
+&lt;div class="text-justify"&gt;&lt;strong&gt;Abstract:&lt;/strong&gt; $T$-varieties are normal varieties equipped with an action of an algebraic torus $T$. When the action is effective, the complexity of a $T$-variety $X$ is $\dim(X)-\dim(T)$. Matrix Schubert varieties, introduced by Fulton in 1992, are $T$-varieties consisting of $n \times n$ matrices satisfying certain constraints on the ranks of their submatrices. In this paper, we focus on the complexity of certain torus-fixed affine subvarieties of matrix Schubert varieties. Concretely, given a matrix Schubert variety $\overline{X_{w}}$ where ${w\in S_n}$, we study the complexity of $Y_w$ obtained by the decomposition $\overline{X_{w}} = Y_{w} \times \mathbb{C}^{k}$ with $k$ as large as possible. Building up from results by Escobar–Mészáros and Donten-Bury–Escobar–Portakal, we show that for a fixed $n$, the complexity of $Y_{w}$ with respect to this action can be any integer between $0$ and ${(n-1)(n-3)}$, except $1$.&lt;/div&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description></item><item><title>Teaching</title><link>https://cesarjmeza.github.io/teaching/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://cesarjmeza.github.io/teaching/</guid><description>&lt;p&gt;At San Francisco State University (SFSU), I served as &lt;em&gt;Instructor of Record&lt;/em&gt; for Precalculus, Business Calculus, and Mathematics for Statistical Quantitative Reasoning.
+Currently, I am an &lt;em&gt;Associate Member&lt;/em&gt; in the &lt;a href="https://ctl.wustl.edu/programs/professional-development-in-teaching-program/"
+
+
+
+
+ target="_blank"
+ 
+
+
+&gt;Professional Development in Teaching Program&lt;/a&gt; hosted by the WashU &lt;a href="https://ctl.wustl.edu/"
+
+
+
+
+ target="_blank"
+ 
+
+
+&gt;Center for Teaching and Learning&lt;/a&gt;.
+In 2024, I earned the WashU Department of Mathematics &lt;em&gt;Brian Blank Teaching Award&lt;/em&gt;.&lt;/p&gt;</description></item></channel></rss>
